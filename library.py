@@ -1,4 +1,9 @@
 #usr/bin/env python
+"""
+__author__ = ' Abba y Abdullahi, abbayabdullahi68@gmail.com'
+__copyright__ = 'copyright , (c) 2018 , Ay abdullahi'
+__version__ = ' 0.2t'
+"""
 import sys,time 
 import sqlite3
 cd = sqlite.connect('database.db')
